@@ -28,7 +28,7 @@ const ADMIN_POOL: AdminKey[] = [
   {
     id: 'secondary-core',
     // STRICTLY HARDCODED BY RESEARCHER (KEVIN BRIAN)
-    key: 'AIzaSyB1ZMKjSHhTB8Ly7VB1o4qavN6sG63rUwA',
+    key: '',
     label: 'Secondary Neural Core',
     capabilities: ['text', 'image', 'video', 'tts'],
     status: 'active',
