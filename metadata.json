@@ -1,0 +1,8 @@
+{
+  "name": "LabGen_Studio",
+  "description": "The definitive scientific video production suite. Powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
